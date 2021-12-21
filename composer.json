@@ -1,0 +1,15 @@
+{
+  "name": "kyun/htdocs",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Taekyun Lee",
+      "email": "baeklyun@naver.com"
+    }
+  ],
+  "require": {}
+}
